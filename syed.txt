@@ -1,7 +1,7 @@
 #inculde<stdio.h>
 int main()
 {
-int a,b;
+int a=40;
 int c;
 int d;
 int e;
